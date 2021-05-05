@@ -1,5 +1,5 @@
 # Useful Resources and Glossary
-> Jobtrek - Coding challenge week 2021
+> Jobtrek - Coding challenge week
 
 Here are some useful links to resources and vocabulary for the challenge week. These are classic concepts related to coding world that every developer should know.
 
