@@ -8,8 +8,11 @@ Here are some useful links to resources and vocabulary for the challenge week. T
 - **API** : [Application programming interface wiki](https://en.wikipedia.org/wiki/API)
 - **HTML** : [HTML wiki](https://en.wikipedia.org/wiki/HTML)
 - **CSS** : [CSS wiki](https://en.wikipedia.org/wiki/CSS)
+- **SASS / SCSS** : [CSS wiki](https://sass-lang.com/documentation)
 - **JS (JavaScript)** : [JS wiki](https://en.wikipedia.org/wiki/JavaScript)
 - **Shell / cli** : [Shell wiki](https://en.wikipedia.org/wiki/Shell_%28computing%29), [Command line interface wiki](https://en.wikipedia.org/wiki/Command-line_interface)
+- **node.js** : [Nodejs wiki](https://en.wikipedia.org/wiki/Node.js)
+- **npm (node package manager)** : [What is npm ?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/)
 
 ## Resources
 
@@ -22,3 +25,6 @@ Here are some useful links to resources and vocabulary for the challenge week. T
 - [w3c CSS tutorial](https://www.w3schools.com/css/default.asp)
 - [w3c JavaScript tutorial](https://www.w3schools.com/js/default.asp)
 - [git](https://git-scm.com/), [Git wikipedia](https://en.wikipedia.org/wiki/Git)
+- [Parcel bundler](https://parceljs.org/)
+- [SASS / SCSS](https://sass-lang.com/)
+- [Nodejs](https://nodejs.org/en/)
