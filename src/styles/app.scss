@@ -1,2 +1,8 @@
 // Site main style
+$font-family-base: Koho, sans-serif;
+
+// Import all bootstrap styles
 @import "~bootstrap/scss/bootstrap";
+
+// Import custom font from g fonts
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
